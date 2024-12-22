@@ -27,8 +27,8 @@ Welcome to my GitHub! I'm a **1st-year student** pursuing **Artificial Intellige
 ---
 
 ## Let's Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com)
-- 🎮 [Portfolio Website](#) (Coming soon!)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gokul-v-92bbb5329)
+- 🎮 [Portfolio Website](https://zenuxcreation.framer.website/)
 - 🖊️ [Blog](#) (Coming soon!)
 
 ---
